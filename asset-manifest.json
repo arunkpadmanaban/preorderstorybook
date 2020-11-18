@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "./main.324d9aeadb2bc04dd6db.bundle.js",
+    "main.js.map": "./main.324d9aeadb2bc04dd6db.bundle.js.map",
+    "runtime~main.js": "./runtime~main.324d9aeadb2bc04dd6db.bundle.js",
+    "runtime~main.js.map": "./runtime~main.324d9aeadb2bc04dd6db.bundle.js.map",
+    "vendors~main.js": "./vendors~main.324d9aeadb2bc04dd6db.bundle.js",
+    "vendors~main.js.map": "./vendors~main.324d9aeadb2bc04dd6db.bundle.js.map",
+    "iframe.html": "./iframe.html",
+    "precache-manifest.3321b58733dfc844c3756bb71f8f032f.js": "./precache-manifest.3321b58733dfc844c3756bb71f8f032f.js",
+    "service-worker.js": "./service-worker.js",
+    "static/media/UniversforBP-Bold.ttf": "./static/media/UniversforBP-Bold.eb689114.ttf",
+    "static/media/UniversforBP-Light.ttf": "./static/media/UniversforBP-Light.5c1aa6ab.ttf",
+    "static/media/UniversforBP-Roman.ttf": "./static/media/UniversforBP-Roman.c26a0fcf.ttf",
+    "vendors~main.324d9aeadb2bc04dd6db.bundle.js.LICENSE.txt": "./vendors~main.324d9aeadb2bc04dd6db.bundle.js.LICENSE.txt"
+  }
+}
